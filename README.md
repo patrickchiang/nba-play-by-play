@@ -32,7 +32,7 @@ teamRecordRequest.then(record => {
 });
 ```
 
-####TeamRecord
+#### TeamRecord
 
 A TeamRecord contains the methods:
 - `getAllGames()`
