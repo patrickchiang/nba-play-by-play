@@ -1,0 +1,31 @@
+{
+    "name": "nba-play-by-play",
+    "version": "1.0.0",
+    "description": "NBA Play by Play data",
+    "main": "index.js",
+    "author": "Patrick Chiang",
+    "dependencies": {
+        "request": "^2.88.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^24.7.1"
+    },
+    "directories": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/patrickchiang/nba-play-by-play.git"
+    },
+    "keywords": [
+        "nba"
+    ],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/patrickchiang/nba-play-by-play/issues"
+    },
+    "homepage": "https://github.com/patrickchiang/nba-play-by-play#readme"
+}

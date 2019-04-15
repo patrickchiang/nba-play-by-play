@@ -1,0 +1,182 @@
+[
+    {
+        "teamId": 1610612737,
+        "code": "ATL",
+        "teamName": "Hawks",
+        "prefix": "Atlanta"
+    },
+    {
+        "teamId": 1610612738,
+        "code": "BOS",
+        "teamName": "Celtics",
+        "prefix": "Boston"
+    },
+    {
+        "teamId": 1610612751,
+        "code": "BKN",
+        "teamName": "Nets",
+        "prefix": "Brooklyn"
+    },
+    {
+        "teamId": 1610612766,
+        "code": "CHA",
+        "teamName": "Hornets",
+        "prefix": "Charlotte"
+    },
+    {
+        "teamId": 1610612741,
+        "code": "CHI",
+        "teamName": "Bulls",
+        "prefix": "Chicago"
+    },
+    {
+        "teamId": 1610612739,
+        "code": "CLE",
+        "teamName": "Cavaliers",
+        "prefix": "Cleveland"
+    },
+    {
+        "teamId": 1610612742,
+        "code": "DAL",
+        "teamName": "Mavericks",
+        "prefix": "Dallas"
+    },
+    {
+        "teamId": 1610612743,
+        "code": "DEN",
+        "teamName": "Nuggets",
+        "prefix": "Denver"
+    },
+    {
+        "teamId": 1610612765,
+        "code": "DET",
+        "teamName": "Pistons",
+        "prefix": "Detroit"
+    },
+    {
+        "teamId": 1610612744,
+        "code": "GSW",
+        "teamName": "Warriors",
+        "prefix": "Golden State"
+    },
+    {
+        "teamId": 1610612745,
+        "code": "HOU",
+        "teamName": "Rockets",
+        "prefix": "Houston"
+    },
+    {
+        "teamId": 1610612754,
+        "code": "IND",
+        "teamName": "Pacers",
+        "prefix": "Indiana"
+    },
+    {
+        "teamId": 1610612746,
+        "code": "LAC",
+        "teamName": "Clippers",
+        "prefix": "Los Angeles"
+    },
+    {
+        "teamId": 1610612747,
+        "code": "LAL",
+        "teamName": "Lakers",
+        "prefix": "Los Angeles"
+    },
+    {
+        "teamId": 1610612763,
+        "code": "MEM",
+        "teamName": "Grizzlies",
+        "prefix": "Memphis"
+    },
+    {
+        "teamId": 1610612748,
+        "code": "MIA",
+        "teamName": "Heat",
+        "prefix": "Miami"
+    },
+    {
+        "teamId": 1610612749,
+        "code": "MIL",
+        "teamName": "Bucks",
+        "prefix": "Milwaukee"
+    },
+    {
+        "teamId": 1610612750,
+        "code": "MIN",
+        "teamName": "Timberwolves",
+        "prefix": "Minnesota"
+    },
+    {
+        "teamId": 1610612740,
+        "code": "NOP",
+        "teamName": "Pelicans",
+        "prefix": "New Orleans"
+    },
+    {
+        "teamId": 1610612752,
+        "code": "NYK",
+        "teamName": "Knicks",
+        "prefix": "New York"
+    },
+    {
+        "teamId": 1610612760,
+        "code": "OKC",
+        "teamName": "Thunder",
+        "prefix": "Oklahoma City"
+    },
+    {
+        "teamId": 1610612753,
+        "code": "ORL",
+        "teamName": "Magic",
+        "prefix": "Orlando"
+    },
+    {
+        "teamId": 1610612755,
+        "code": "PHI",
+        "teamName": "76ers",
+        "prefix": "Philadelphia"
+    },
+    {
+        "teamId": 1610612756,
+        "code": "PHX",
+        "teamName": "Suns",
+        "prefix": "Phoenix"
+    },
+    {
+        "teamId": 1610612757,
+        "code": "POR",
+        "teamName": "Trail Blazers",
+        "prefix": "Portland"
+    },
+    {
+        "teamId": 1610612758,
+        "code": "SAC",
+        "teamName": "Kings",
+        "prefix": "Sacramento"
+    },
+    {
+        "teamId": 1610612759,
+        "code": "SAS",
+        "teamName": "Spurs",
+        "prefix": "San Antonio"
+    },
+    {
+        "teamId": 1610612761,
+        "code": "TOR",
+        "teamName": "Raptors",
+        "prefix": "Toronto"
+    },
+    {
+        "teamId": 1610612762,
+        "code": "UTA",
+        "teamName": "Jazz",
+        "prefix": "Utah"
+    },
+    {
+        "teamId": 1610612764,
+        "code": "WAS",
+        "teamName": "Wizards",
+        "prefix": "Washington"
+    }
+]
